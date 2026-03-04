@@ -1,6 +1,9 @@
 <a id="readme-top"></a>
 
 <div align="center">
+  <a href="https://github.com/Quentincs50/Talky>
+    <img src="images/logo.png" alt="Logo" width="30" height="30">
+  </a>
   <h3 align="center">Talky</h3>
 
   <p align="center">
