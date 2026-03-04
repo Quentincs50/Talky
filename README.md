@@ -12,7 +12,7 @@
     <a href="https://github.com/Quentincs50/DevLab"><strong>Explorez mes autres projets »</strong></a>
     <br />
     <br />
-    <a href="quentin-sanchez.vercel.app">Regarder la démo</a>
+    <a href="https://quentin-sanchez.vercel.app/">Regarder la démo</a>
     &middot;
   </p>
 </div>
@@ -45,8 +45,6 @@
 
 Talky est une messagerie  Discord like dans le but d'apprendre plus en profondeur la gestion des sockets et l'API en rust. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Stack Technique
 
 | Technologie | Badge / Icon |
@@ -56,7 +54,7 @@ Talky est une messagerie  Discord like dans le but d'apprendre plus en profondeu
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour haut de la page</a>)</p>
 
 ## Commencement
 
@@ -115,7 +113,7 @@ VITE_PORT=5173
 ```bash
 docker compose up --build
 ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour haut de la page</a>)</p>
 
 ## Ports et services
 
@@ -128,11 +126,10 @@ docker compose up --build
 
 ## Contact
 
-Your Name - [@Quentin_Sanchez](https://www.linkedin.com/in/quentin-sanchez-9b6741b6) - Linkedin
+Quentin Sanchez - [@Quentin_Sanchez](https://www.linkedin.com/in/quentin-sanchez-9b6741b6) - Linkedin
 
-Project Link: [https://github.com/Quentincs50/DevLab](https://github.com/Quentincs50/DevLab)
+Mon repository: [https://github.com/Quentincs50/DevLab](https://github.com/Quentincs50/DevLab)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Outils
 
@@ -144,5 +141,5 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Icons](tabler.io/icons)
 * [Javascript Mastery Video](https://www.youtube.com/@javascriptmastery)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">retour haut de la page</a>)</p>
 
