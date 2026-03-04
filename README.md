@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/Quentincs50/Talky>
+  <a href="https://github.com/Quentincs50/Talky">
     <img src="src/logo.png" alt="Logo" width="30" height="30">
   </a>
   <h3 align="center">Talky</h3>
