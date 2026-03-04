@@ -1,0 +1,50 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "5173:5173"
+    volumes:
+       - ./frontend/src:/app/src
+    depends_on:
+      - backend
+    restart: always  
+    command: sh -c "npm install && npm run dev"
+
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    depends_on:
+      - db
+      - mongo
+    restart: always
+  
+
+  db:
+    image: 'postgres:17-alpine'
+    env_file:
+      - .env
+    ports:
+    - "5432:5432"
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    restart: always
+
+  mongo:
+    image: mongo:8
+    env_file:
+      - .env
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+      - ./backend/mongoTalky.js:/docker-entrypoint-initdb.d/mongoTalky.js:ro
+    restart: always
+
+volumes:
+  db-data:
+  mongo-data:
