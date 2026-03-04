@@ -9,12 +9,10 @@
   <p align="center">
     Application de messagerie instantanée avec serveurs et channels pour discuter en temps réel.
     <br />
-    <a href="https://github.com/Quentincs50/DevLab"><strong>Explore my other projects»</strong></a>
+    <a href="https://github.com/Quentincs50/DevLab"><strong>Explorez mes autres projets »</strong></a>
     <br />
     <br />
-    <a href="quentin-sanchez.vercel.app">View Demo</a>
-    &middot;
-    <a href=""/>Linkedin</a>
+    <a href="quentin-sanchez.vercel.app">Regarder la démo</a>
     &middot;
   </p>
 </div>
@@ -32,13 +30,13 @@
     <li>
       <a href="#commencement">Commencer</a>
       <ul>
-        <li><a href="#prerequis">Prerequis</a></li>
+        <li><a href="#prérequis">Prérequis</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#port-et-services">Port et Services</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Outils">Outils</a></li>
   </ol>
 </details>
 
@@ -136,7 +134,7 @@ Project Link: [https://github.com/Quentincs50/DevLab](https://github.com/Quentin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+## Outils
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
