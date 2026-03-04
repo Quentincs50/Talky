@@ -1,11 +1,20 @@
 # Talky
-Application de messagerie instantanée avec serveurs et channel
 
-## Stack technique 
-- **Frontend** : React 19 / ViteJS / Tailwind CSS
-- **Backend** : Rust / Axum
-- **Bases de données** : PostgreSQL 17 + MongoDB 8
-- **Infrastructure** : Docker
+**Talky** – Application de messagerie instantanée avec serveurs et channels pour discuter en temps réel.  
+
+---
+
+## 🛠️ Stack Technique
+
+| Technologie | Badge / Icon |
+|------------|--------------|
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend**  | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Axum](https://img.shields.io/badge/Axum-ffffff?style=for-the-badge) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+
+---
+
 
 ## Prérequis
 - [Docker](https://www.docker.com/) installé sur votre machine
@@ -27,7 +36,6 @@ cd frontend
 npm install
 ```
 3. **Configurer les variables d'environnement**
-
 ```bash
 cd backend
 touch .env
@@ -57,7 +65,7 @@ touch .env
 VITE_API_URL=http://localhost:3000
 VITE_PORT=5173
 ```
-
+4. **Lancer le projet avec Docker Compose:
 ```bash
 docker compose up --build
 ```
