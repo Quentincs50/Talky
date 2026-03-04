@@ -110,7 +110,7 @@ touch .env
 VITE_API_URL=http://localhost:3000
 VITE_PORT=5173
 ```
-4. **Lancer le projet avec Docker Compose:
+4. **Lancer le projet avec Docker Compose :**
 ```bash
 docker compose up --build
 ```
