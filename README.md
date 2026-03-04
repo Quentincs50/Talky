@@ -33,8 +33,10 @@ JWT_SECRET
 
 - Ajouter un .env dans le frontend avec les variables d'environnement suivantes :
 
+```
 VITE_API_URL=http://localhost:3000
 VITE_PORT=5173
+```
 
 - Lancer le projet avec docker compose up --build
 
