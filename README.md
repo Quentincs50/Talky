@@ -47,7 +47,7 @@ Talky est une messagerie  Discord like dans le but d'apprendre plus en profondeu
 
 ### Stack Technique
 
-| Technologie | Badge / Icon |
+| Technologie | Badge |
 |------------|--------------|
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Backend**  | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Axum](https://img.shields.io/badge/Axum-ffffff?style=for-the-badge) |
@@ -132,8 +132,6 @@ Mon repository: [https://github.com/Quentincs50/DevLab](https://github.com/Quent
 
 
 ## Outils
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Aceternity](https://ui.aceternity.com/)
 * [MagicUi](https://magicui.design/)
